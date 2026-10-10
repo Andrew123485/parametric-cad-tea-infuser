@@ -43,7 +43,23 @@ A portable travel tumbler integrating an internal brewing chamber (infuser mesh)
 
 ---
 
-## 2. Parametric Geometry & Tolerance Analysis
+## 2. 📸 Visual CAD Gallery & 3D Assembly
+
+<div align="center">
+
+| Complete 3D Assembly (Assembly CAD) | Nested Travel Kit (Kit Open) |
+|:---:|:---:|
+| <img src="export/assembly.png" alt="Full 3D Assembly" width="460"/> | <img src="export/kit_open.png" alt="Open Kit Components" width="460"/> |
+
+| 3D Print Plate Slicing Setup (Print Plate) | Infuser Mesh & Tumbler Detailing (Bowl & Infuser) |
+|:---:|:---:|
+| <img src="export/print_plate.png" alt="Print Plate" width="460"/> | <img src="export/bowl.png" alt="Bowl CAD" width="460"/> |
+
+</div>
+
+---
+
+## 3. Parametric Geometry & Tolerance Analysis
 
 ### 2.1. OpenSCAD Implementation (`tea_infuser.scad`)
 Entire geometry is procedurally defined through parametric variables:

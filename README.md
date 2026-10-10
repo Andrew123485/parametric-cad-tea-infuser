@@ -43,7 +43,23 @@
 
 ---
 
-## 2. Параметрическая геометрия и допуски
+## 2. 📸 Визуальная галерея CAD-модели и 3D-сборки
+
+<div align="center">
+
+| Полная 3D-сборка инфузера (Assembly CAD) | Раскрытый дорожный комплект (Kit Open) |
+|:---:|:---:|
+| <img src="export/assembly.png" alt="Full 3D Assembly" width="460"/> | <img src="export/kit_open.png" alt="Open Kit Components" width="460"/> |
+
+| Подготовка деталей к 3D-печати (Print Plate) | Детализация стакана и сита (Bowl & Infuser) |
+|:---:|:---:|
+| <img src="export/print_plate.png" alt="Print Plate" width="460"/> | <img src="export/bowl.png" alt="Bowl CAD" width="460"/> |
+
+</div>
+
+---
+
+## 3. Параметрическая геометрия и допуски
 
 ### 2.1. OpenSCAD код (`tea_infuser.scad`)
 Вся геометрия изделия вычислена математически через формулы с управляющими глобальными переменными:
