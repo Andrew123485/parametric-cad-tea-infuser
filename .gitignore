@@ -1,0 +1,17 @@
+# Video and large media
+*.mp4
+*.mov
+*.avi
+export/*.mp4
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.venv/
+
+# Temporary renders
+temp/
+export/frames/
